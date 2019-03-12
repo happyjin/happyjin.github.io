@@ -11,21 +11,21 @@ url: http://trappmartin.github.io
 author: Martin Trapp
 
 baseurl: /
-title: Jin Li's Personal Webpage
-name: Jin Li
-email: lijin.engineer[at]gmail.com
-email_full: mailto:lijin.engineer@gmail.com
-website: happyjin.github.io
-website_full: https://happyjin.github.io
-github: happyjin
-#twitter: martin_trapp
+title: Martin Trapp
+name: Martin Trapp
+email: martin.trapp[at]ofai.at
+email_full: mailto:martin.trapp[at]ofai.at
+website: trappmartin.github.io
+website_full: https://trappmartin.github.io
+github: trappmartin
+twitter: martin_trapp
 #tel: +44 0000 000000
 #tel_full: tel:+440000000000
-google_maps: 'https://www.google.com/maps/place/Heidelberg/@49.4057072,8.6135741,12z/data=!3m1!4b1!4m5!3m4!1s0x4797c1050eccdccd:0xefe6ea0044243ad7!8m2!3d49.3987524!4d8.6724335'
-#address: Freyung 6/6
-#postcode: 1010
-city: Heidelberg
-country: Germany
+google_maps: 'https://www.google.at/maps/place/%C3%96st.+Forschungsinstitut+f%C3%BCr+Artificial+Intelligence+(OFAI)/@48.2122238,16.3642285,15z/data=!4m2!3m1!1s0x0:0xef32d1eb2cf852b1?sa=X&ved=0ahUKEwjj8tTS3YrQAhVHtBoKHdz5ACQQ_BIIgQEwCw'
+address: Freyung 6/6
+postcode: 1010
+city: Vienna
+country: Austria
 
 # needed for travis-ci build
 exclude: [vendor]
