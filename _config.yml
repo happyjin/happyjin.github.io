@@ -25,8 +25,8 @@ GoogleScholar: https://scholar.google.com/citations?user=WBoT7G4AAAAJ&hl=en
 google_maps: 'https://www.google.com/maps/place/Shenzhen,+Guangdong+Province,+China/@22.5554167,113.9137942,11z/data=!3m1!4b1!4m5!3m4!1s0x3403f408d0e15291:0xfdee550db79280c9!8m2!3d22.543096!4d114.057865'
 #address: Freyung 6/6
 #postcode: 1010
-city: Shenzhen
-country: China
+city: Hong Kong
+#country: China
 
 # needed for travis-ci build
 exclude: [vendor]
